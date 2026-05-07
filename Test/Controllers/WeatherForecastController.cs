@@ -33,7 +33,7 @@ namespace Test.Controllers
         [HttpGet]
         public String Test()
         {
-            return "OK";
+            return "Welcome";
         }
     }
 }
