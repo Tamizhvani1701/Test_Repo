@@ -35,5 +35,12 @@ namespace Test.Controllers
         {
             return "Connection SuccessFully";
         }
+
+
+        public String CheckWheather()
+        {
+            return "Currently Slight Rainy in Thanjavur";
+        }
+
     }
 }
